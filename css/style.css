@@ -1,0 +1,13 @@
+body{
+    background-color: #f5cac3;
+}
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.banner-text{
+    font-size: 5.5rem;
+}
+.banner-text2{
+    font-size: 2rem;
+}
